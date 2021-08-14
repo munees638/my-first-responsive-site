@@ -45,7 +45,7 @@ p{
 }
 .nav-link{
   color: #fff !important;
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-family: "Montserrat-light";
 }
 .nav-link:hover{
@@ -151,8 +151,19 @@ p{
   #title{
     text-align: center;
   }
-
-
-
+  .testimonial-text{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 2rem !important;
+  line-height: 1.5;
+}
+.testimonial-img{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
 
 }
